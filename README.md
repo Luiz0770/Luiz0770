@@ -15,12 +15,10 @@ My name is Luiz Felipe and I'm a student at the IT university called FIAP, from 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" height="30" alt="illustrator logo"  />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Luiz0770&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Luiz0770&locale=en&hide_title=false&layout=compact&card_count=5&theme=dark&hide_border=false")<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Luiz0770&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"_height="150") <br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luiz0770&icon=1&color=6)](https://visitcount.itsvg.in)
