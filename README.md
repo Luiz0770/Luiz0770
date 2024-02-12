@@ -7,7 +7,7 @@ My name is Luiz Felipe and I'm a student at the IT university called FIAP, from 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# 💻 Software I know:
+# 🖥 Software I know:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
@@ -18,7 +18,7 @@ My name is Luiz Felipe and I'm a student at the IT university called FIAP, from 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Luiz0770&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Luiz0770&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"_height="150") <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Luiz0770&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"_height="200") <br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luiz0770&icon=1&color=6)](https://visitcount.itsvg.in)
