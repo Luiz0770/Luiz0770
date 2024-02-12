@@ -17,8 +17,8 @@ My name is Luiz Felipe and I'm a student at the IT university called FIAP, from 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Luiz0770&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Luiz0770&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"_height="200") <br/>
+![](https://github-readme-stats.vercel.app/api?username=Luiz0770&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph%22)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Luiz0770&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false%22%20height=%22150%22%20alt=%22languages%20graph%22) <br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luiz0770&icon=1&color=6)](https://visitcount.itsvg.in)
