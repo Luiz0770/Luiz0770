@@ -14,13 +14,13 @@ My name is Luiz Felipe and I'm a student at the IT university called FIAP, from 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" height="30" alt="illustrator logo"  />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Luiz0770&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Luiz0770&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false")<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Luiz0770&locale=en&hide_title=false&layout=compact&card_count=5&theme=dark&hide_border=false")<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Luiz0770&icon=1&color=6)](https://visitcount.itsvg.in)
